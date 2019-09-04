@@ -12,7 +12,7 @@
 >#### **个人技能**  
 
 - 能使用PS、XD进行切图，能够根据 UI 设计还原网页， 移动端rem适配和响应式布局
-- 熟悉 DOM、BOM 原生 API， jQuery API， React 框架及其相关生态， ES6 语法， HTTP、AJAX， 与后端配合完成数据对接
+- 熟悉 DOM、BOM 原生 API， jQuery， React 框架及其相关生态， ES6 语法
 - 熟悉微信小程序开发 
 - 熟悉 uni-app 跨端开发
 - 了解 node 服务端开发， 能使用express增删查改
