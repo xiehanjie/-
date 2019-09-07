@@ -26,7 +26,7 @@
 
 - **淘宝客商城**<br/>web移动端技术栈：JQ、Weui，小程序：小程序语法，app：uni-app开发IOS+安卓端
 - **手机壳定制**<br/>web移动端：React、antd-mobile，小程序：小程序语法，app：uni-app开发IOS+安卓端
-- **微信公众号分享商城**<br/>使用技术栈：React、antd-mobile
+- **微信公众号分销商城**<br/>使用技术栈：React、antd-mobile
 - **微信公众号手机充值系统**<br/>使用技术栈：JQ、Weui
 - **商城后台管理系统**<br/>使用技术栈：React、Antd
 
