@@ -28,7 +28,7 @@
     负责整个项目的前端开发<br/>
     web移动端：<br/>
     &emsp;&emsp;使用技术栈：React + Redux + axios + antd-mobile + less<br/>
-    &emsp;&emsp;样式使用Less + antd-mobile.less<br/>
+    &emsp;&emsp;样式使用Less<br/>
     &emsp;&emsp;数据请求使用redux-thunk + axios<br/>
     &emsp;&emsp;自定义上传图片，使用canvas实现手机壳背景贴图，图片移动旋转缩放<br/>
     &emsp;&emsp;，文字颜色选择和移动旋转缩放<br/>
@@ -44,7 +44,7 @@
     负责整个项目的前端开发<br/>
     web移动端：<br/>
     &emsp;&emsp;使用技术栈：React + Redux + axios + antd-mobile + less<br/>
-    &emsp;&emsp;样式使用Less + antd-mobile.less<br/>
+    &emsp;&emsp;样式使用Less<br/>
     &emsp;&emsp;数据请求使用redux-thunk + axios<br/>
     &emsp;&emsp;完整的收藏，购物车，购买，下单，支付，等功能<br/>
     小程序：<br/>
@@ -59,7 +59,7 @@
     负责整个项目的前端开发<br/>
     web移动端：<br/>
     &emsp;&emsp;使用技术栈：React + Redux + axios + antd-mobile + less<br/>
-    &emsp;&emsp;样式使用Less + antd-mobile.less<br/>
+    &emsp;&emsp;样式使用Less<br/>
     &emsp;&emsp;数据请求使用redux-thunk + axios<br/>
     小程序：<br/>
     &emsp;&emsp;小程序API<br/>
