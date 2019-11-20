@@ -24,11 +24,68 @@
 
 >#### **项目经历**  
 
-- **淘宝客商城**<br/>web移动端技术栈：JQ、Weui，小程序：小程序语法，app：uni-app开发IOS+安卓端
-- **手机壳定制**<br/>web移动端：React、antd-mobile，小程序：小程序语法，app：uni-app开发IOS+安卓端
-- **微信公众号分销商城**<br/>使用技术栈：React、antd-mobile
-- **微信公众号手机充值系统**<br/>使用技术栈：JQ、Weui
-- **商城后台管理系统**<br/>使用技术栈：React、Antd
+- **手机壳定制**<br/>
+    负责整个项目的前端开发<br/>
+    web移动端：<br/>
+    &emsp;&emsp;使用技术栈：React + Redux + axios + antd-mobile + less<br/>
+    &emsp;&emsp;样式使用Less + antd-mobile.less<br/>
+    &emsp;&emsp;数据请求使用redux-thunk + axios<br/>
+    &emsp;&emsp;自定义上传图片，使用canvas实现手机壳背景贴图，图片移动旋转缩放<br/>
+    &emsp;&emsp;，文字颜色选择和移动旋转缩放<br/>
+    小程序：<br/>
+    &emsp;&emsp;小程序API<br/>
+    &emsp;&emsp;小程序组件<br/>
+    &emsp;&emsp;自定义组件开发<br/>
+    APP：<br/>
+    &emsp;&emsp;使用uni-app框架开发IOS+安卓端<br/>
+    &emsp;&emsp;使用HTML5plusAPI + Native.js修改原生控件<br/>
+
+- **web移动端商城**<br/>
+    负责整个项目的前端开发<br/>
+    web移动端：<br/>
+    &emsp;&emsp;使用技术栈：React + Redux + axios + antd-mobile + less<br/>
+    &emsp;&emsp;样式使用Less + antd-mobile.less<br/>
+    &emsp;&emsp;数据请求使用redux-thunk + axios<br/>
+    &emsp;&emsp;完整的收藏，购物车，购买，下单，支付，等功能<br/>
+    小程序：<br/>
+    &emsp;&emsp;小程序API<br/>
+    &emsp;&emsp;小程序组件<br/>
+    &emsp;&emsp;自定义组件开发<br/>
+    APP：<br/>
+    &emsp;&emsp;使用uni-app框架开发IOS+安卓端<br/>
+    &emsp;&emsp;使用HTML5plusAPI + Native.js修改原生控件<br/>
+
+- **淘宝客领券**<br/>
+    负责整个项目的前端开发<br/>
+    web移动端：<br/>
+    &emsp;&emsp;使用技术栈：React + Redux + axios + antd-mobile + less<br/>
+    &emsp;&emsp;样式使用Less + antd-mobile.less<br/>
+    &emsp;&emsp;数据请求使用redux-thunk + axios<br/>
+    小程序：<br/>
+    &emsp;&emsp;小程序API<br/>
+    &emsp;&emsp;小程序组件<br/>
+    &emsp;&emsp;自定义组件开发<br/>
+    APP：<br/>
+    &emsp;&emsp;使用uni-app框架开发IOS+安卓端<br/>
+    &emsp;&emsp;使用HTML5plusAPI + Native.js修改原生控件<br/>
+
+- **微信公众号手机充值系统**<br/>
+    负责整个项目的前端开发<br/>
+    &emsp;&emsp;使用技术栈：JQ + Weui<br/>
+
+- **旅游景区门票购买预约**<br/>
+    负责整个项目的前端开发<br/>
+    web移动端：<br/>
+    &emsp;&emsp;使用技术栈：JQ + Weui<br/>
+    &emsp;&emsp;样式weui.css，大部分自写样式<br/>
+    APP：<br/>
+    &emsp;&emsp;使用uni-app框架开发IOS+安卓端<br/>
+    &emsp;&emsp;使用HTML5plusAPI + Native.js修改原生控件<br/>
+
+- **商城后台管理系统**<br/>
+    &emsp;&emsp;使用技术栈：React + Redux + Antd + Less<br/>
+    &emsp;&emsp;订单图表分析使用echarts<br/>
+    
 
 
 
