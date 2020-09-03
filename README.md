@@ -25,7 +25,6 @@
 - 2016.07 - 2019.08   广州诺达网络科技  前端开发
 
 >#### **项目经历**  
-
 - #### 广州面团圈信息科技有限公司<br/>
 - **负责公司项目面团圈商城整体开发与维护**<br/>
     小程序：<br/>
@@ -39,7 +38,6 @@
     多商家客服系统：<br/>
     &emsp;&emsp;1. 对接小程序客服接口，根据用户不同场景进入客服进行提示<br/>
     &emsp;&emsp;2. 使用技术栈React + hooks + TS + antd<br/>
-    
 - #### 广州诺达网络科技<br/>
 - **手机壳定制**<br/>
     负责整个项目的前端开发<br/>
@@ -55,7 +53,6 @@
     APP：<br/>
     &emsp;&emsp;1. 使用uni-app框架开发IOS+安卓端<br/>
     &emsp;&emsp;2. 使用HTML5plusAPI + Native.js修改原生控件<br/>
-    
 - **web移动端商城**<br/>
     负责整个项目的前端开发<br/>
     web移动端：<br/>
@@ -70,12 +67,8 @@
     APP：<br/>
     &emsp;&emsp;1. 使用uni-app框架开发IOS+安卓端<br/>
     &emsp;&emsp;2. 使用HTML5plusAPI + Native.js修改原生控件<br/>
-    
 - **旅游景区门票购买预约**<br/>
     负责整个项目的前端开发<br/>
-    web移动端：<br/>
-    &emsp;&emsp;1. 使用技术栈：JQ + Weui<br/>
-    &emsp;&emsp;2. 样式weui.css，大部分自写样式<br/>
     APP：<br/>
     &emsp;&emsp;1. 使用uni-app框架开发IOS+安卓端<br/>
     &emsp;&emsp;2. 使用HTML5plusAPI + Native.js修改原生控件<br/>
