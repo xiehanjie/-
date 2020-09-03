@@ -25,7 +25,8 @@
 - 2016.07 - 2019.08   广州诺达网络科技  前端开发
 
 >#### **项目经历**  
-- #### 广州面团圈信息科技有限公司
+
+- #### 广州面团圈信息科技有限公司<br/>
 - **负责公司项目面团圈商城整体开发与维护**<br/>
     小程序：<br/>
     &emsp;&emsp;1. 使用微信小程序原生开发<br/>
@@ -38,7 +39,8 @@
     多商家客服系统：<br/>
     &emsp;&emsp;1. 对接小程序客服接口，根据用户不同场景进入客服进行提示<br/>
     &emsp;&emsp;2. 使用技术栈React + hooks + TS + antd<br/>
-- #### 广州诺达网络科技
+    
+- #### 广州诺达网络科技<br/>
 - **手机壳定制**<br/>
     负责整个项目的前端开发<br/>
     web移动端：<br/>
@@ -46,20 +48,6 @@
     &emsp;&emsp;2. 样式使用Less<br/>
     &emsp;&emsp;3. 数据请求使用redux-thunk + axios<br/>
     &emsp;&emsp;4. 自定义上传图片，使用canvas实现手机壳背景贴图，图片移动旋转缩放，文字颜色选择和移动旋转缩放<br/>
-    小程序：<br/>
-    &emsp;&emsp;1. 小程序API<br/>
-    &emsp;&emsp;2. 小程序组件<br/>
-    &emsp;&emsp;3. 自定义组件开发<br/>
-    APP：<br/>
-    &emsp;&emsp;1. 使用uni-app框架开发IOS+安卓端<br/>
-    &emsp;&emsp;2. 使用HTML5plusAPI + Native.js修改原生控件<br/>
-
-- **淘宝客领券**<br/>
-    负责整个项目的前端开发<br/>
-    web移动端：<br/>
-    &emsp;&emsp;1. 使用技术栈：React + Redux + axios + antd-mobile + less<br/>
-    &emsp;&emsp;2. 样式使用Less<br/>
-    &emsp;&emsp;3. 数据请求使用redux-thunk + axios<br/>
     小程序：<br/>
     &emsp;&emsp;1. 小程序API<br/>
     &emsp;&emsp;2. 小程序组件<br/>
@@ -91,7 +79,3 @@
     APP：<br/>
     &emsp;&emsp;1. 使用uni-app框架开发IOS+安卓端<br/>
     &emsp;&emsp;2. 使用HTML5plusAPI + Native.js修改原生控件<br/>
-
-- **商城后台管理系统**<br/>
-    &emsp;&emsp;1. 使用技术栈：React + Redux + Antd + Less<br/>
-    &emsp;&emsp;2. 订单图表分析使用echarts<br/>
