@@ -13,9 +13,10 @@
 >#### **个人技能**  
 
 - 能使用PS、XD进行切图，能够根据 UI 设计还原网页， 移动端rem适配和响应式布局
-- 熟悉 DOM、BOM 原生 API， jQuery， React生态，vue2及其相关生态， ES6 语法
-- 熟悉微信小程序开发 
+- 熟悉前端老三样，jQuery，React生态，vue2及其相关生态，ES6 语法
+- 熟悉微信小程序开发，抖音小程序开发
 - 熟悉 uni-app 跨端开发
+- 了解 TypeScript
 - 了解 node 服务端开发， 能使用express增删查改
 - 了解 ThinkPHP 能写业务代码
 
@@ -28,16 +29,20 @@
 >#### **项目经历**  
 - #### 广东女人帮网络科技有限公司<br/>
 - **负责公司项目女人帮生活整体开发与维护**<br/>
-    女人帮生活C端小程序：<br/>
+    女人帮生活微信小程序：<br/>
     &emsp;&emsp;1. 使用uniapp开发<br/>
     &emsp;&emsp;2. 基本商品购买功能<br/>
-    &emsp;&emsp;3. 开发拼团，订购，套餐，促销等功能<br/>
+    &emsp;&emsp;3. 拼团，订购，套餐，促销等功能<br/>
+    女人帮生活抖音小程序：<br/>
+    &emsp;&emsp;1. 使用uniapp开发<br/>
+    &emsp;&emsp;2. 抖店商品展示功能<br/>
+    &emsp;&emsp;3. 抖音小视频商品分享功能<br/>
     女人帮生活App：<br/>
     &emsp;&emsp;1. 使用uniapp开发<br/>
     &emsp;&emsp;2. 多商家购物功能<br/>
-    &emsp;&emsp;3. 微信支付，支付宝支付，银行支付，建行分期支付功能<br/>
-    &emsp;&emsp;4. 开发拼团，订购，套餐，促销等功能<br/>
-    女人帮生活B端商家小程序：<br/>
+    &emsp;&emsp;3. 分享优惠功能<br/>
+    &emsp;&emsp;4. 拼团，订购，套餐，促销等功能<br/>
+    女人帮生活商家管理小程序：<br/>
     &emsp;&emsp;1. 使用微信小程序原生开发<br/>
     &emsp;&emsp;2. 商家后台基本管理功能<br/>
 
